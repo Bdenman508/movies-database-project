@@ -1,0 +1,14 @@
+# World of Movies
+
+Final semester project at CSU Stanislaus developed by Bryan Denman, Jay, and Susana.
+
+**World of Movies** is a web-based application built with PHP, MySQL, and HTML that allows users to explore movies, actors, directors, genres, filming locations, awards, and related information.
+
+### Features
+
+* Relational database schema connecting movies, actors, directors, producers, awards, and more.
+* Interactive queries to search movie data by cast, reviews, production details, awards, and directors.
+* Ad-hoc query interface to allow users to run custom SQL queries on movie and actor tables.
+* Web pages dynamically generated using PHP and MySQL for seamless interaction.
+
+This project showcases database design, backend integration, and front-end presentation as part of the Computer Science program at CSU Stanislaus.
